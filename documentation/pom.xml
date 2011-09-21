@@ -15,6 +15,7 @@
 		<groupId>org.geomajas</groupId>
 		<artifactId>geomajas-doc-parent</artifactId>
 		<version>1.0.0</version>
+		<relativePath></relativePath>
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.uah.mcenirm.geomajas</groupId>
