@@ -41,7 +41,7 @@
 		</dependency>
 		<dependency>
 			<groupId>edu.uah.mcenirm.geomajas</groupId>
-			<artifactId>kml</artifactId>
+			<artifactId>geomajas-plugin-kml</artifactId>
 			<version>${project.version}</version>
 		</dependency>
 		<dependency>
